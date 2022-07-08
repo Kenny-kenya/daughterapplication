@@ -1,0 +1,11 @@
+.one h1{
+    text-align: center; 
+    background-color: purple(11, 226, 65);
+    color: white;
+    background-color: blue;
+    
+}
+.one div1{
+    color: green;
+    background-color: aqua;
+}
